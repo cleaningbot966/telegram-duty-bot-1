@@ -7,7 +7,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "7658695918:AAGcL-28T2Gn7WtMopzbYKlElJtzglKXNKQ"
+TOKEN = "7658695918:AAG5hE7eweawVVjnzBN68U1p1pYQ--QZWDo"
 # 📁 файл с пользователями
 FILE_NAME = "users.json"
 
